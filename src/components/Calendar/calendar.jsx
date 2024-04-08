@@ -73,11 +73,11 @@ const Calendar = () => {
                   primary={event.title}
                   secondary={
                     <Typography>
-                      {formatDate(event.start, {
+                      {/* {formatDate(event.start, {
                         year: "numeric",
                         month: "short",
                         day: "numeric",
-                      })}
+                      })} */}
                     </Typography>
                   }
                 />

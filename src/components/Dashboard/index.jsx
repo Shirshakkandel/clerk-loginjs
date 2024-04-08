@@ -15,6 +15,9 @@ const Dashboard = () => {
       </Box>
       <Box display={"initial"}>
         <Calendar />
+        {/* <div style={{ background: "red", width: "500px", height: "500px" }}>
+          Hello
+        </div> */}
       </Box>
     </Box>
   );
